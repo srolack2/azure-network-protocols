@@ -37,7 +37,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 </p>
 <h2>Completed Virtual Network </h2>
 <p> 
- First, a resource group was created in Azure. Inside of the virutal network there is a subnet with two virtual machines. One VM is running Windows 10 (VM1) and the other is running Linux Ubuntu (VM1). There is an NSG in between the two, a firewall. Configuations were made to the firewall to connect the two machines and analysis the traffic using Wireshark.
+ First, a resource group was created in Azure. Inside the virtual network, there is a subnet with two virtual machines. One VM is running Windows 10 (VM1) and the other is running Linux Ubuntu (VM1). There is an NSG in between the two, a firewall. Configurations were made to the firewall to connect the two machines and analysis the traffic using Wireshark.
 
 </p>
 <br />
