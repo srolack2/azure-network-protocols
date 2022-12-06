@@ -44,7 +44,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/CCF6HZz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <h1> Utilizing Remote Desktop to connect to Windows 10 Virtual Machine </h1>
 <p>
