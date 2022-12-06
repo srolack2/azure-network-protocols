@@ -53,7 +53,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Z4Ii33x.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <h1> Wireshark (Protocol Analyzer) and Traffic Analysis </h1>
 <p>
